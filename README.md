@@ -31,3 +31,9 @@
 <h2>License 📜</h2>
 
 <p>This project is licensed under the GPL v3.0 License - see the <code>LICENSE</code> file for details.</p>
+<br>
+<figure>
+  <img src="Readme pngs/Zuchat screenshot.png" alt="Zuchat Screenshot">
+  <figcaption>Zuchat Screenshot</figcaption>
+</figure>
+
